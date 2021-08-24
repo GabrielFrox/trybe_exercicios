@@ -3,7 +3,11 @@ body {
     background-color: black;
     color: white;
     margin-left: 20px;
-    font-weight: bold;
+    font-weight: 00;
+}
+
+article {
+    max-width: 42.2%;
 }
 
 h1 {
@@ -69,4 +73,8 @@ nav ul li {
     padding-bottom: 10px;
     background-color: blue;
     border-radius: 14px;
+}
+
+nav ul {
+    padding-left: 0;
 }
