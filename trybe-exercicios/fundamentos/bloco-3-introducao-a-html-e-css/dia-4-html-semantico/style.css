@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    position: relative;
+    border-bottom: 8px dashed red;
+    display: inline;
+}
+
+#main_intro {
+
+}
+
+#stoma_main {
+    margin-top: 3%;
+    width: 30%;
+}
+
+ul {
+    padding-top: 1.5%;
+    padding-left: 0;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-size: 135%;
+    font-weight: bold;
+    display: inline-block;
+    border: 1px solid blue;
+    max-width: 30%;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blue;
+    border-radius: 14px;
+}
